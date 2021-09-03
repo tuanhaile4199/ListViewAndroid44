@@ -8,7 +8,6 @@
     tools:context=".MainActivity">
 
     <ListView
-        android:background="@xml/actions"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/lvProduct"
